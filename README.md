@@ -19,4 +19,4 @@ python convert.py
 ```
 That's all you need! Just type in the state you live in (NJ, VA, etc.) and it will search for available vaccines.
 
-![CLI Example](https://github.com/LogitechGalena/CVS-Vaccine-Stock-Checker/blob/main/example.png)
+![CLI Example](https://github.com/LogitechGalena/Payload-to-Dict/blob/main/carbon.png)
