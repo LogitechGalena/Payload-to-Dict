@@ -1,5 +1,5 @@
-# Payload-to-Dict
-A simple script to convert request payloads to json dictionaries.
+# Query to Dict
+A simple script to convert query request payloads to json dictionaries.
 
 You can use this however you'd like. I just ask that you credit me somewhere in it. 🙂
 
