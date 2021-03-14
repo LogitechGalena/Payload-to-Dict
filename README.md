@@ -17,6 +17,6 @@ This will install all the needed modules to run the script.
 ```
 python convert.py
 ```
-That's all you need! Just type in the state you live in (NJ, VA, etc.) and it will search for available vaccines.
+That's all you need! Just edit the payload in the code and run the file.
 
 ![CLI Example](https://github.com/LogitechGalena/Payload-to-Dict/blob/main/carbon.png)
